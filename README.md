@@ -15,7 +15,7 @@
 
 # Trainers & Moderators
 
-<!-- <table >
+<table >
     <tbody>
         <tr>
             <td align="center">
@@ -26,36 +26,29 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/aminasaeed223">
-                    <img src="https://avatars.githubusercontent.com/u/125123484?v=4" width="100px;" alt="Amina Saeed"/>
+                <a href="https://github.com/Rumaisa1054/">
+                    <img src="https://avatars.githubusercontent.com/u/105513477?v=4" width="100px;" alt="Amina Saeed"/>
                     <br />
-                    <sub><b>Amina Saeed</b></sub>
+                    <sub><b>Rumaisa</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/Ifrahtariq2">
-                    <img src="https://avatars.githubusercontent.com/u/169586130?v=4" width="100px;" alt="Ifrah Tariq"/>
+                <a href="https://github.com/AbdulMunnam07">
+                    <img src="https://avatars.githubusercontent.com/u/154698578?v=4" width="100px;" alt="Ifrah Tariq"/>
                     <br />
-                    <sub><b>Ifrah Tariq </b></sub>
+                    <sub><b>Abdul Munnam</b></sub>
                 </a> 
             </td>
             <td align="center">
-                <a href="https://github.com/khadijah-Shabir">
-                    <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
+                <a href="https://github.com/ShazmaBatool">
+                    <img src="https://avatars.githubusercontent.com/u/73420497?v=4" width="100px;" alt="khadijah-Shabir"/>
                     <br />
-                    <sub><b>khadijah-Shabir</b></sub>
-                </a> 
-            </td>
-            <td align="center">
-                <a href="https://github.com/aamna-ansari">
-                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
-                    <br />
-                    <sub><b>AaMna AnSari</b></sub>
+                    <sub><b>Shazma Batool</b></sub>
                 </a> 
             </td>
         </tr> 
 </tbody>
-<table> -->
+<table> 
 
 
 # Week 01
