@@ -66,7 +66,7 @@
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
     </tr>
     <tr>
-       <td align="center"><b>01</b></td>
+       <td align="center"><b>02</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/827645715807168">Introduction of Array </td>
     <td align="center" ><a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480. Running Sum of 1d Array</td>
     </tr>
