@@ -67,8 +67,13 @@
     </tr>
     <tr>
        <td align="center"><b>02</b></td>
-       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/827645715807168">Introduction of Array </td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/827645715807168">LeetCode Problem</td>
     <td align="center" ><a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480. Running Sum of 1d Array</td>
+    </tr>
+    <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/7861721453897415">LeetCode Problem</td>
+    <td align="center" ><a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</td>
     </tr>
   </tr> 
 </tbody>
