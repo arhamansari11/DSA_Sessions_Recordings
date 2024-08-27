@@ -83,3 +83,21 @@
   </tr> 
 </tbody>
 <table>
+    
+# Week 02
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1040808614116735">Introduction of 2D Array</td>
+    <td align="center" ><a href="https://leetcode.com/problems/flipping-an-image/">832. Flipping an Image</td>
+    </tr>
+  </tr> 
+</tbody>
+<table>
