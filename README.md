@@ -108,6 +108,11 @@
        <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=1153708199021618">LeetCode Question</td>
     <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/">1572. Matrix Diagonal Sum</td>
     </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1272725444110044">LeetCode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">1672. Richest Customer Wealth</td>
+    </tr>
   </tr> 
 </tbody>
 <table>
