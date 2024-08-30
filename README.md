@@ -98,6 +98,16 @@
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1040808614116735">Introduction of 2D Array</td>
     <td align="center" ><a href="https://leetcode.com/problems/flipping-an-image/">832. Flipping an Image</td>
     </tr>
+    <tr>
+       <td align="center"><b>02</b></td>
+       <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=293926600471892">LeetCode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/transpose-matrix/">867. Transpose Matrix</td>
+    </tr>
+    <tr>
+       <td align="center"><b>03</b></td>
+       <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=1153708199021618">LeetCode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/">1572. Matrix Diagonal Sum</td>
+    </tr>
   </tr> 
 </tbody>
 <table>
