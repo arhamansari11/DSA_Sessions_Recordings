@@ -134,7 +134,7 @@
     <tr>
        <td align="center"><b>01</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1199756158014712">Introduction of Stack </td>
-    <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String/td>
+    <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String </td>
     </tr>
     <tr>
        <td align="center"><b>02</b></td>
