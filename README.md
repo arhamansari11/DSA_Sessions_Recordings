@@ -116,8 +116,32 @@
     <tr>
        <td align="center"><b>05</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1507631843184073">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">289. Game of Life</td>
+    <td align="center" ><a href="https://leetcode.com/problems/game-of-life/">289. Game of Life</td>
     </tr>
   </tr> 
 </tbody>
 <table>
+
+# Week 03
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+       <td align="center"><b>01</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1199756158014712">Introduction of Stack</td>
+    <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String/td>
+    </tr>
+    <tr>
+       <td align="center"><b>02</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/528831529606947">LeetCode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/decode-string/">394. Decode String</td>
+    </tr>
+  </tr> 
+</tbody>
+<table>
+
