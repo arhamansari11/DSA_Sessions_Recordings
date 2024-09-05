@@ -113,6 +113,11 @@
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1272725444110044">LeetCode Question</td>
     <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">1672. Richest Customer Wealth</td>
     </tr>
+    <tr>
+       <td align="center"><b>05</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1507631843184073">LeetCode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">289. Game of Life</td>
+    </tr>
   </tr> 
 </tbody>
 <table>
