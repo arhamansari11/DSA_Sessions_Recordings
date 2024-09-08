@@ -63,22 +63,18 @@
     <tr>
        <td align="center"><b>01</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1925396051256515">Introduction of DSA</td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
     </tr>
     <tr>
        <td align="center"><b>02</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/827645715807168">LeetCode Problem</td>
-    <td align="center" ><a href="https://leetcode.com/problems/running-sum-of-1d-array/">1480. Running Sum of 1d Array</td>
     </tr>
     <tr>
        <td align="center"><b>03</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/7861721453897415">LeetCode Problem</td>
-    <td align="center" ><a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</td>
     </tr>
     <tr>
        <td align="center"><b>04</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1548595335759767">LeetCode Problem</td>
-    <td align="center" ><a href="https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/">1464. Maximum Product of Two Elements in an Array</td>
     </tr>
   </tr> 
 </tbody>
@@ -96,27 +92,22 @@
     <tr>
        <td align="center"><b>01</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1040808614116735">Introduction of 2D Array</td>
-    <td align="center" ><a href="https://leetcode.com/problems/flipping-an-image/">832. Flipping an Image</td>
     </tr>
     <tr>
        <td align="center"><b>02</b></td>
        <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=293926600471892">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/transpose-matrix/">867. Transpose Matrix</td>
     </tr>
     <tr>
        <td align="center"><b>03</b></td>
        <td align="center"><a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=1153708199021618">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/">1572. Matrix Diagonal Sum</td>
     </tr>
     <tr>
        <td align="center"><b>04</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1272725444110044">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">1672. Richest Customer Wealth</td>
     </tr>
     <tr>
        <td align="center"><b>05</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1507631843184073">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/game-of-life/">289. Game of Life</td>
     </tr>
   </tr> 
 </tbody>
@@ -134,12 +125,10 @@
     <tr>
        <td align="center"><b>01</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1199756158014712">Introduction of Stack </td>
-    <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String </td>
     </tr>
     <tr>
        <td align="center"><b>02</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/528831529606947">LeetCode Question</td>
-    <td align="center" ><a href="https://leetcode.com/problems/decode-string/">394. Decode String</td>
     </tr>
   </tr> 
 </tbody>
