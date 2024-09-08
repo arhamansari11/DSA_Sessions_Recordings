@@ -86,7 +86,6 @@
      <tr>
       <th>Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Material/Questions</th>
      </tr> 
     <tr>
        <td align="center"><b>01</b></td>
@@ -119,7 +118,6 @@
      <tr>
       <th>Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Material/Questions</th>
      </tr> 
     <tr>
        <td align="center"><b>01</b></td>
