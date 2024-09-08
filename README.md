@@ -58,7 +58,6 @@
      <tr>
       <th> Days</th>
       <th>Video Links (Facebook)</br></th>
-      <th>Material/Questions</th>
      </tr> 
     <tr>
        <td align="center"><b>01</b></td>
@@ -129,6 +128,10 @@
     <tr>
        <td align="center"><b>02</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/528831529606947">LeetCode Question</td>
+    </tr>
+    <tr>
+       <td align="center"><b>04</b></td>
+       <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2542638215943451">LeetCode Question</td>
     </tr>
   </tr> 
 </tbody>
